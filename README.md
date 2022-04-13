@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Hosted On Netlify [The-Mi-Store-Clone](https://the-mi-store-clone.netlify.app/).
 ## Available Scripts
 
 In the project directory, you can run:
